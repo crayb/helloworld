@@ -9,5 +9,5 @@ for i in range(10):
     print(i)
     
 
-
-print (i*i)    
+print ('i =' + str(i))
+print ('i toiseen on ' + str(i*i))  
